@@ -1,0 +1,19 @@
+[03-Mar-2020 07:42:48 UTC] PHP Fatal error:  Cannot redeclare getTheDay() (previously declared in /home/ywqhsxuxbbdw/public_html/application/views/search.php:84) in /home/ywqhsxuxbbdw/public_html/application/views/search.php on line 84
+[03-Mar-2020 08:01:00 UTC] PHP Fatal error:  Cannot redeclare getTheDay() (previously declared in /home/ywqhsxuxbbdw/public_html/application/views/search.php:84) in /home/ywqhsxuxbbdw/public_html/application/views/search.php on line 84
+[03-Mar-2020 08:02:46 UTC] PHP Fatal error:  Cannot redeclare getTheDay() (previously declared in /home/ywqhsxuxbbdw/public_html/application/views/search.php:87) in /home/ywqhsxuxbbdw/public_html/application/views/search.php on line 87
+[03-Mar-2020 08:03:22 UTC] PHP Fatal error:  Cannot redeclare getTheDay() (previously declared in /home/ywqhsxuxbbdw/public_html/application/views/search.php:87) in /home/ywqhsxuxbbdw/public_html/application/views/search.php on line 87
+[03-Mar-2020 08:03:38 UTC] PHP Fatal error:  Cannot redeclare getTheDay() (previously declared in /home/ywqhsxuxbbdw/public_html/application/views/search.php:87) in /home/ywqhsxuxbbdw/public_html/application/views/search.php on line 87
+[03-Mar-2020 08:04:49 UTC] PHP Fatal error:  Cannot redeclare getTheDay() (previously declared in /home/ywqhsxuxbbdw/public_html/application/views/search.php:87) in /home/ywqhsxuxbbdw/public_html/application/views/search.php on line 87
+[03-Mar-2020 08:04:49 UTC] PHP Fatal error:  Cannot redeclare getTheDay() (previously declared in /home/ywqhsxuxbbdw/public_html/application/views/search.php:87) in /home/ywqhsxuxbbdw/public_html/application/views/search.php on line 87
+[05-Mar-2020 12:22:52 UTC] PHP Warning:  Unterminated comment starting line 1098 in /home/ywqhsxuxbbdw/public_html/application/controllers/Homecontroller.php on line 1098
+[16-Jul-2020 13:47:50 UTC] PHP Fatal error:  require_once(): Failed opening required 'class.smtp.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ywqhsxuxbbdw/lyrehtest/application/libraries/Phpmailer.php on line 702
+[16-Jul-2020 13:48:47 UTC] PHP Fatal error:  require_once(): Failed opening required 'class.smtp.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ywqhsxuxbbdw/lyrehtest/application/libraries/Phpmailer.php on line 702
+[16-Jul-2020 13:53:49 UTC] PHP Fatal error:  require_once(): Failed opening required 'class.smtp.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ywqhsxuxbbdw/lyrehtest/application/libraries/Phpmailer.php on line 702
+[16-Jul-2020 13:54:38 UTC] PHP Fatal error:  require_once(): Failed opening required 'class.smtp.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ywqhsxuxbbdw/lyrehtest/application/libraries/Phpmailer.php on line 702
+[16-Jul-2020 13:55:53 UTC] PHP Fatal error:  require_once(): Failed opening required 'class.smtp.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ywqhsxuxbbdw/lyrehtest/application/libraries/Phpmailer.php on line 702
+[06-Aug-2020 10:44:33 UTC] PHP Fatal error:  Cannot redeclare getTheDay() (previously declared in /home/ywqhsxuxbbdw/lyrehtest/application/views/buyuser.php:95) in /home/ywqhsxuxbbdw/lyrehtest/application/views/buyuser.php on line 542
+[06-Aug-2020 11:39:43 UTC] PHP Fatal error:  Cannot redeclare getTheDay() (previously declared in /home/ywqhsxuxbbdw/lyrehtest/application/views/buyuser.php:367) in /home/ywqhsxuxbbdw/lyrehtest/application/views/buyuser.php on line 734
+[07-Nov-2020 06:43:07 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ywqhsxuxbbdw/public_html/search.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ywqhsxuxbbdw/public_html/search.php on line 1

@@ -1,0 +1,8 @@
+/* =========
+Your custom styles go here
+ ========= */
+
+.emojionearea .emojionearea-editor {
+	min-height: 3em!important;
+	border-radius: 30px!important;
+}
